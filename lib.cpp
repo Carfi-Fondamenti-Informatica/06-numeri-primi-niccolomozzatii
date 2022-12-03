@@ -1,3 +1,4 @@
+#include "lib.h"
 int primo (int n, int m) {
   bool x=true;
   if(m!=1){
